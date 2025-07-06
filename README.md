@@ -25,7 +25,7 @@ A fast-paced that tests your mental math skills under pressure. Built with Pytho
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/timed-math-challenge.git
+   git clone https://github.com/dannymunene/timed-math-challenge.git
    cd timed-math-challenge
 Run the program:
 
